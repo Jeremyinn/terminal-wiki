@@ -1,5 +1,4 @@
 #include <string>
-
 class Article;
 
 class View {

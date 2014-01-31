@@ -1,0 +1,5 @@
+1) Options variable contains: memory, assembly, compiler, custom.
+2) Options is giving back an invalid value of -1.
+3) 59
+4) type = int[3]
+5) the array value exceeds the max value.
